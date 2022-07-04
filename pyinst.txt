@@ -1,0 +1,1 @@
+pyinstaller --noconsole  --onefile --icon=C:\Users\Boran\Desktop\Workspace\PresearchBot\dist\files\icon.ico Presearch.py
